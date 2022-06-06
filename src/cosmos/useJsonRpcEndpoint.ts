@@ -1,4 +1,4 @@
-import { SupportedChainId } from '@uniswap/widgets'
+import { SupportedChainId } from '@cndllabs/widgets'
 
 import useOption, { NONE } from './useOption'
 

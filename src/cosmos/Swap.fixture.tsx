@@ -8,7 +8,7 @@ import {
   SUPPORTED_LOCALES,
   SupportedChainId,
   SwapWidget,
-} from '@uniswap/widgets'
+} from '@cndllabs/widgets'
 import { useEffect } from 'react'
 import { useValue } from 'react-cosmos/fixture'
 

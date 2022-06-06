@@ -2,7 +2,7 @@
   "extends": "./tsconfig.build.json",
   "compilerOptions": {
     "paths": {
-      "@uniswap/widgets": ["index"]
+      "@cndllabs/widgets": ["index"]
     },
     "types": ["jest"]
   },

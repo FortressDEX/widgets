@@ -33,6 +33,7 @@ import {
   WETH_POLYGON,
   WETH_POLYGON_MUMBAI,
   WRAPPED_NATIVE_CURRENCY,
+  DAI_CANDLE,
 } from './tokens'
 
 type ChainTokenList = {

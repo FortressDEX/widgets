@@ -16,10 +16,12 @@ export enum SupportedChainId {
 
   POLYGON = 137,
   POLYGON_MUMBAI = 80001,
+  CANDLE = 534,
 }
 
 export const CHAIN_IDS_TO_NAMES = {
   [SupportedChainId.MAINNET]: 'mainnet',
+  [SupportedChainId.CANDLE]: 'candle',
   [SupportedChainId.ROPSTEN]: 'ropsten',
   [SupportedChainId.RINKEBY]: 'rinkeby',
   [SupportedChainId.GOERLI]: 'goerli',
@@ -41,6 +43,7 @@ export const ALL_SUPPORTED_CHAIN_IDS: SupportedChainId[] = Object.values(Support
 
 export const SUPPORTED_GAS_ESTIMATE_CHAIN_IDS = [
   SupportedChainId.MAINNET,
+  SupportedChainId.CANDLE,
   SupportedChainId.POLYGON,
   SupportedChainId.OPTIMISM,
   SupportedChainId.ARBITRUM_ONE,
@@ -55,6 +58,7 @@ export const L1_CHAIN_IDS = [
   SupportedChainId.RINKEBY,
   SupportedChainId.GOERLI,
   SupportedChainId.KOVAN,
+  SupportedChainId.CANDLE,
   SupportedChainId.POLYGON,
   SupportedChainId.POLYGON_MUMBAI,
 ] as const
