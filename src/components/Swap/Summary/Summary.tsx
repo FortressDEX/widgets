@@ -1,5 +1,5 @@
 import { useLingui } from '@lingui/react'
-import { Currency, CurrencyAmount } from '@uniswap/sdk-core'
+import { Currency, CurrencyAmount } from '@cndllabs/sdk-core'
 import { PriceImpact } from 'hooks/useUSDCPriceImpact'
 import { ArrowRight } from 'icons'
 import { PropsWithChildren } from 'react'

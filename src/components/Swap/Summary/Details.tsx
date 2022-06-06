@@ -1,7 +1,7 @@
 import { t } from '@lingui/macro'
 import { useLingui } from '@lingui/react'
 import { Trade } from '@uniswap/router-sdk'
-import { Currency, TradeType } from '@uniswap/sdk-core'
+import { Currency, TradeType } from '@cndllabs/sdk-core'
 import Column from 'components/Column'
 import Row from 'components/Row'
 import { Slippage } from 'hooks/useSlippage'

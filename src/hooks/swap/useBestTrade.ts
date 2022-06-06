@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, TradeType } from '@uniswap/sdk-core'
+import { Currency, CurrencyAmount, TradeType } from '@cndllabs/sdk-core'
 import { useClientSideV3Trade } from 'hooks/useClientSideV3Trade'
 import useLast from 'hooks/useLast'
 import { useMemo } from 'react'

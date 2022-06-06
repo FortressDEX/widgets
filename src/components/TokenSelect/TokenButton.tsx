@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { Currency } from '@uniswap/sdk-core'
+import { Currency } from '@cndllabs/sdk-core'
 import { ChevronDown } from 'icons'
 import { useEffect, useMemo, useState } from 'react'
 import styled, { css } from 'styled-components/macro'

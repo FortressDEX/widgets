@@ -1,7 +1,7 @@
 import 'setimmediate'
 
 import { Trans } from '@lingui/macro'
-import { Currency } from '@uniswap/sdk-core'
+import { Currency } from '@cndllabs/sdk-core'
 import { loadingTransitionCss } from 'css/loading'
 import { ReactNode, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import styled, { keyframes } from 'styled-components/macro'

@@ -1,5 +1,5 @@
 import { Plural, Trans } from '@lingui/macro'
-import { Currency, TradeType } from '@uniswap/sdk-core'
+import { Currency, TradeType } from '@cndllabs/sdk-core'
 import { FeeAmount } from '@cndllabs/v3-sdk'
 import { ReactComponent as DotLine } from 'assets/svg/dot_line.svg'
 import Column from 'components/Column'

@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Percent, Token } from '@uniswap/sdk-core'
+import { Currency, CurrencyAmount, Percent, Token } from '@cndllabs/sdk-core'
 import { useUSDCValue } from 'hooks/useUSDCPrice'
 import { useMemo } from 'react'
 import { computeFiatValuePriceImpact } from 'utils/computeFiatValuePriceImpact'

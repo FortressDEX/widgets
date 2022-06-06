@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { Currency, CurrencyAmount, Token } from '@uniswap/sdk-core'
+import { Currency, CurrencyAmount, Token } from '@cndllabs/sdk-core'
 import { Action } from 'components/ActionButton'
 import EtherscanLink from 'components/EtherscanLink'
 import {

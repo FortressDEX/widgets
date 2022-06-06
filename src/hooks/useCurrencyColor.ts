@@ -1,4 +1,4 @@
-import { Currency } from '@uniswap/sdk-core'
+import { Currency } from '@cndllabs/sdk-core'
 import Vibrant from 'node-vibrant/lib/bundle.js'
 import { useEffect, useState } from 'react'
 import { useTheme } from 'styled-components/macro'

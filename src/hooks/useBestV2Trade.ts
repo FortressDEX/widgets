@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, TradeType } from '@uniswap/sdk-core'
+import { Currency, CurrencyAmount, TradeType } from '@cndllabs/sdk-core'
 import { Pair, Trade } from '@uniswap/v2-sdk'
 import { BETTER_TRADE_LESS_HOPS_THRESHOLD } from 'constants/misc'
 import { useMemo } from 'react'

@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { Currency } from '@uniswap/sdk-core'
+import { Currency } from '@cndllabs/sdk-core'
 import { AlertTriangle, ArrowRight, CheckCircle, Spinner, Trash2 } from 'icons'
 import { useMemo, useState } from 'react'
 import styled from 'styled-components/macro'

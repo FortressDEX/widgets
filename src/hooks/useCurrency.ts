@@ -1,6 +1,6 @@
 import { arrayify } from '@ethersproject/bytes'
 import { parseBytes32String } from '@ethersproject/strings'
-import { Currency, Token } from '@uniswap/sdk-core'
+import { Currency, Token } from '@cndllabs/sdk-core'
 import { TOKEN_SHORTHANDS } from 'constants/tokens'
 import { NEVER_RELOAD, useSingleCallResult } from 'hooks/multicall'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

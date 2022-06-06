@@ -1,5 +1,5 @@
 import { useLingui } from '@lingui/react'
-import { Currency, CurrencyAmount } from '@uniswap/sdk-core'
+import { Currency, CurrencyAmount } from '@cndllabs/sdk-core'
 import { loadingTransitionCss } from 'css/loading'
 import {
   useIsSwapFieldIndependent,

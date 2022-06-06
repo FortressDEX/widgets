@@ -1,6 +1,6 @@
 import { useLingui } from '@lingui/react'
 import { Trade } from '@uniswap/router-sdk'
-import { Currency, CurrencyAmount, TradeType } from '@uniswap/sdk-core'
+import { Currency, CurrencyAmount, TradeType } from '@cndllabs/sdk-core'
 import Row from 'components/Row'
 import { useCallback, useMemo, useState } from 'react'
 import { ThemedText } from 'theme'

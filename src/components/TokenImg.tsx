@@ -1,4 +1,4 @@
-import { Currency } from '@uniswap/sdk-core'
+import { Currency } from '@cndllabs/sdk-core'
 import missingTokenSrc from 'assets/missing-token-image.png'
 import { useToken } from 'hooks/useCurrency'
 import useCurrencyLogoURIs from 'hooks/useCurrencyLogoURIs'

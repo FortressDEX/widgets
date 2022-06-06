@@ -1,4 +1,4 @@
-import { Token } from '@uniswap/sdk-core'
+import { Token } from '@cndllabs/sdk-core'
 import { TokenInfo, TokenList } from '@uniswap/token-lists'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { createContext, PropsWithChildren, useCallback, useContext, useEffect, useMemo, useState } from 'react'
