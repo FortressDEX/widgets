@@ -3677,7 +3677,7 @@
     "@openzeppelin/contracts" "3.4.1-solc-0.7-2"
     "@uniswap/v2-core" "1.0.1"
     "@cndllabs/v3-core" "1.0.0"
-    "@uniswap/v3-periphery" "1.3.0"
+    "@cndllabs/v3-periphery" "1.3.0"
     hardhat-watcher "^2.1.1"
 
 "@uniswap/swap-router-contracts@1.2.0":
@@ -3688,7 +3688,7 @@
     "@openzeppelin/contracts" "3.4.1-solc-0.7-2"
     "@uniswap/v2-core" "1.0.1"
     "@cndllabs/v3-core" "1.0.0"
-    "@uniswap/v3-periphery" "1.3.0"
+    "@cndllabs/v3-periphery" "1.3.0"
     dotenv "^14.2.0"
     hardhat-watcher "^2.1.1"
 
@@ -3731,9 +3731,9 @@
   resolved "https://registry.npmjs.org/@cndllabs/v3-core/-/v3-core-1.0.0.tgz"
   integrity sha512-kSC4djMGKMHj7sLMYVnn61k9nu+lHjMIxgg9CDQT+s2QYLoA56GbSK9Oxr+qJXzzygbkrmuY6cwgP6cW2JXPFA==
 
-"@uniswap/v3-periphery@1.3.0", "@uniswap/v3-periphery@^1.0.1", "@uniswap/v3-periphery@^1.1.1":
+"@cndllabs/v3-periphery@1.3.0", "@cndllabs/v3-periphery@^1.0.1", "@cndllabs/v3-periphery@^1.1.1":
   version "1.3.0"
-  resolved "https://registry.yarnpkg.com/@uniswap/v3-periphery/-/v3-periphery-1.3.0.tgz#37f0a1ef6025221722e50e9f3f2009c2d5d6e4ec"
+  resolved "https://registry.yarnpkg.com/@cndllabs/v3-periphery/-/v3-periphery-1.3.0.tgz#37f0a1ef6025221722e50e9f3f2009c2d5d6e4ec"
   integrity sha512-HjHdI5RkjBl8zz3bqHShrbULFoZSrjbbrRHoO2vbzn+WRzTa6xY4PWphZv2Tlcb38YEKfKHp6NPl5hVedac8uw==
   dependencies:
     "@openzeppelin/contracts" "3.4.1-solc-0.7-2"
@@ -3751,7 +3751,7 @@
     "@ethersproject/abi" "^5.0.12"
     "@ethersproject/solidity" "^5.0.9"
     "@cndllabs/sdk-core" "^3.0.1"
-    "@uniswap/v3-periphery" "^1.1.1"
+    "@cndllabs/v3-periphery" "^1.1.1"
     "@uniswap/v3-staker" "1.0.0"
     tiny-invariant "^1.1.0"
     tiny-warning "^1.0.3"
@@ -3763,7 +3763,7 @@
   dependencies:
     "@openzeppelin/contracts" "3.4.1-solc-0.7-2"
     "@cndllabs/v3-core" "1.0.0"
-    "@uniswap/v3-periphery" "^1.0.1"
+    "@cndllabs/v3-periphery" "^1.0.1"
 
 "@vibrant/color@^3.2.1-alpha.1":
   version "3.2.1-alpha.1"
