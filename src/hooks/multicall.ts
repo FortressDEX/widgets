@@ -2,8 +2,8 @@ import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import useBlockNumber from 'hooks/useBlockNumber'
 import multicall from 'state/multicall'
 
-export type { CallStateResult } from '@uniswap/redux-multicall' // re-export for convenience
-export { NEVER_RELOAD } from '@uniswap/redux-multicall' // re-export for convenience
+export type { CallStateResult } from '@cndllabs/redux-multicall' // re-export for convenience
+export { NEVER_RELOAD } from '@cndllabs/redux-multicall' // re-export for convenience
 
 // Create wrappers for hooks so consumers don't need to get latest block themselves
 
